@@ -1,0 +1,19 @@
+body {
+	background-color: #fff;	
+	padding-top: 0;
+}
+
+.btn-primary, 
+.btn-primary:hover, 
+.btn-primary:active, 
+.btn-primary:focus,
+.btn-primaryprimary:active:focus, 
+.btn-primary:active:hover {
+	color: #000;
+	background-color: transparent;
+	border-color: transparent;
+	font-size: 50px;
+	font-family: cursive;
+	line-height: 30px;
+}
+
