@@ -2,7 +2,7 @@ body {
 	background-color: #fff;	
 	padding-top: 0;
 	/*font-family: 'Kaushan Script', sans-serif;*/
-font-family: 'Boogaloo', sans-serif;
+	font-family: 'Boogaloo', sans-serif;
 }
 
 .btn-primary, 
@@ -32,8 +32,8 @@ img, h1, h2, button, span, a, .tickets {
 }
 
 img {
-	max-height: 250px;
 	width: auto;
+	height: 300px;
 	margin-bottom: 20px;
 
 }
@@ -50,27 +50,32 @@ h1 {
 }
 
 h2 {
-color: #ff9042;
+	color: #ff9042;
 	font-family: 'Kaushan Script', sans-serif;
 }
 
 button {
 	padding: 4px 50px;
-    font-size: 20px;
-    letter-spacing: 3px;
-    background-color: #ff9042;
-    border: none;
-    color: white;
+	font-size: 20px;
+	letter-spacing: 3px;
+	background-color: #ff9042;
+	border: none;
+	color: white;
+	margin-bottom: 10px;
 }
 
 button:hover {
-	    box-shadow: 1px 2px 5px #900000;
+	box-shadow: 1px 2px 5px #900000;
 }
 
 button:active {
-	   background-color: #ffc107;
+	background-color: #ffc107;
 }
 
+p {
+	display: inline-block;
+	font-size: 20px;
 
+}
 
 
