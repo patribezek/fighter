@@ -5,6 +5,11 @@ body {
 	font-family: 'Boogaloo', sans-serif;
 }
 
+li {
+	list-style: none;
+	text-align: initial;
+}
+
 .btn-primary, 
 .btn-primary:hover, 
 .btn-primary:active, 
@@ -78,4 +83,16 @@ p {
 
 }
 
+/********************* RESPONSIVE *********************/
 
+
+@media (max-width: 768px){
+
+	img {
+		height: 160px;
+	}
+
+
+
+
+}
